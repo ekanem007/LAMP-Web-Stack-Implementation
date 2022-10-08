@@ -143,6 +143,6 @@
 
 >`sudo rm /var/www/projectlamp/index.php`
 
->*#after checking the relevant information about your PHP server through the above page, it's best to remove the file you created as it contains sensitive information about your PHP environment and your ubuntu server*
+* #after checking the relevant information about your PHP server through the above page, it's best to remove the file you created as it contains sensitive information about your PHP environment and your ubuntu server*
 
 ![remove php file](images/rm-phpfile.png)
