@@ -3,7 +3,7 @@
 **LAMP**
 : Is a Web technology stack who's  frameworks and tools are very specifically chosen to work together in creating a well-functioning software.
 
-## **LAMP** is an acronymn for individual technologies (Linux, Apache, MySQL, PHP or Python, or Perl
+## **LAMP** is an acronym for individual technologies (Linux, Apache, MySQL, PHP or Python, or Perl
 
 * *Project steps*
 
